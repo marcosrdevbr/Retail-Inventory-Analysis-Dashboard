@@ -1,0 +1,201 @@
+﻿Inventory_ID,Date,Store_ID,Store_Name,City,State,Region,Product_ID,Product_Name,Category,Subcategory,Supplier,Stock_Quantity,Reorder_Level,Max_Stock_Level,Unit_Cost,Unit_Price,Inventory_Value,Potential_Revenue,Units_Sold_30D,Units_Sold_90D,Avg_Daily_Sales,Lead_Time_Days,Safety_Stock,Days_of_Supply,Inventory_Turnover_30D,Last_Restock_Date,Stock_Status
+INV00001,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P001,Smartphone X100,Electronics,Mobile,Global Retail Co,7,34,136,1450,2199,10150,15393,101,232,4,3,22,1.8,14.43,2026-01-09,Low Stock
+INV00002,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P002,Bluetooth Headphones,Electronics,Audio,FastStock,24,21,120,110,199,2640,4776,20,57,1,3,18,24.0,0.83,2026-04-18,Healthy
+INV00003,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P003,Notebook Pro 14,Electronics,Computers,NexTrade,112,102,143,2900,4299,324800,481488,228,544,8,10,22,14.0,2.04,2026-01-27,Healthy
+INV00004,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P004,Wireless Mouse,Electronics,Accessories,Alpha Supply,327,41,172,42,89,13734,29103,77,193,3,10,11,109.0,0.24,2026-04-28,Overstock
+INV00005,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P005,LED Monitor 24,Electronics,Computers,BR Distribuidora,136,83,143,540,899,73440,122264,410,1079,18,3,29,7.6,3.01,2026-06-30,Healthy
+INV00006,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P006,Office Chair,Furniture,Office,Global Retail Co,202,28,142,230,449,46460,90698,67,217,3,3,19,67.3,0.33,2026-03-13,Overstock
+INV00007,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P007,Wooden Desk,Furniture,Office,BR Distribuidora,188,120,254,420,799,78960,150212,416,950,15,7,15,12.5,2.21,2026-05-17,Healthy
+INV00008,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P008,Bookshelf,Furniture,Home,NexTrade,72,74,211,260,499,18720,35928,182,448,8,5,34,9.0,2.53,2026-01-15,Low Stock
+INV00009,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P009,Sofa Compact,Furniture,Living Room,BR Distribuidora,14,49,191,900,1599,12600,22386,284,869,8,3,25,1.8,20.29,2026-06-17,Low Stock
+INV00010,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P010,Dining Table,Furniture,Kitchen,FastStock,64,194,270,760,1299,48640,83136,426,1318,16,10,34,4.0,6.66,2026-03-09,Low Stock
+INV00011,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P011,Printer Basic,Office Supplies,Printing,Alpha Supply,36,226,358,350,649,12600,23364,389,877,14,14,30,2.6,10.81,2026-02-09,Low Stock
+INV00012,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P012,A4 Paper Pack,Office Supplies,Paper,FastStock,188,69,207,18,34,3384,6392,179,507,6,10,9,31.3,0.95,2026-01-03,Healthy
+INV00013,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P013,Pen Set,Office Supplies,Writing,NexTrade,153,78,282,6,15,918,2295,99,331,4,14,22,38.2,0.65,2026-05-09,Healthy
+INV00014,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P014,Notebook Paper,Office Supplies,Paper,BR Distribuidora,258,95,295,9,22,2322,5676,193,542,6,14,11,43.0,0.75,2026-02-09,Healthy
+INV00015,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P015,Stapler,Office Supplies,Accessories,NexTrade,428,99,274,12,29,5136,12412,354,1173,12,5,39,35.7,0.83,2026-03-03,Overstock
+INV00016,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P016,Coffee Maker,Home Appliances,Kitchen,FastStock,72,20,81,210,399,15120,28728,61,139,2,5,10,36.0,0.85,2026-02-02,Healthy
+INV00017,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P017,Air Fryer,Home Appliances,Kitchen,BR Distribuidora,78,90,172,330,599,25740,46722,134,381,5,10,40,15.6,1.72,2026-07-02,Low Stock
+INV00018,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P018,Blender,Home Appliances,Kitchen,BR Distribuidora,396,128,280,95,189,37620,74844,316,741,10,10,28,39.6,0.8,2026-01-17,Overstock
+INV00019,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,Alpha Supply,73,73,171,260,499,18980,36427,400,989,11,3,40,6.6,5.48,2026-03-26,Healthy
+INV00020,2026-06-30,ST001,São Paulo - Paulista,São Paulo,SP,Southeast,P020,Electric Kettle,Home Appliances,Kitchen,FastStock,89,62,173,75,149,6675,13261,99,281,3,14,20,29.7,1.11,2026-05-28,Healthy
+INV00021,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P001,Smartphone X100,Electronics,Mobile,Alpha Supply,13,115,259,1450,2199,18850,28587,439,1182,16,5,35,0.8,33.77,2026-06-22,Low Stock
+INV00022,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P002,Bluetooth Headphones,Electronics,Audio,BR Distribuidora,55,42,168,110,199,6050,10945,104,259,4,3,30,13.8,1.89,2026-05-18,Healthy
+INV00023,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P003,Notebook Pro 14,Electronics,Computers,FastStock,32,107,193,2900,4299,92800,137568,470,1489,15,5,32,2.1,14.69,2026-01-26,Low Stock
+INV00024,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P004,Wireless Mouse,Electronics,Accessories,Global Retail Co,157,33,96,42,89,6594,13973,57,136,2,14,5,78.5,0.36,2026-05-04,Overstock
+INV00025,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P005,LED Monitor 24,Electronics,Computers,Global Retail Co,127,78,160,540,899,68580,114173,204,560,7,10,8,18.1,1.61,2026-06-28,Healthy
+INV00026,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P006,Office Chair,Furniture,Office,FastStock,201,194,282,230,449,46230,90249,696,2014,18,10,14,11.2,3.46,2026-01-16,Healthy
+INV00027,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P007,Wooden Desk,Furniture,Office,BR Distribuidora,176,41,230,420,799,73920,140624,406,932,11,3,8,16.0,2.31,2026-01-18,Healthy
+INV00028,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P008,Bookshelf,Furniture,Home,FastStock,261,45,115,260,499,67860,130239,121,301,3,5,30,87.0,0.46,2026-01-11,Overstock
+INV00029,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P009,Sofa Compact,Furniture,Living Room,BR Distribuidora,241,68,188,900,1599,216900,385359,83,209,3,10,38,80.3,0.34,2026-06-21,Overstock
+INV00030,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P010,Dining Table,Furniture,Kitchen,FastStock,0,125,183,760,1299,0,0,261,768,10,10,25,0.0,0,2026-01-26,Out of Stock
+INV00031,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P011,Printer Basic,Office Supplies,Printing,BR Distribuidora,23,60,229,350,649,8050,14927,112,296,3,14,18,7.7,4.87,2026-04-23,Low Stock
+INV00032,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P012,A4 Paper Pack,Office Supplies,Paper,Alpha Supply,199,164,206,18,34,3582,6766,414,1059,18,7,38,11.1,2.08,2026-02-04,Healthy
+INV00033,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P013,Pen Set,Office Supplies,Writing,NexTrade,19,38,219,6,15,114,285,213,520,9,3,11,2.1,11.21,2026-05-10,Low Stock
+INV00034,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P014,Notebook Paper,Office Supplies,Paper,NexTrade,155,120,183,9,22,1395,3410,402,905,16,7,8,9.7,2.59,2026-02-03,Healthy
+INV00035,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P015,Stapler,Office Supplies,Accessories,BR Distribuidora,221,78,259,12,29,2652,6409,287,935,9,5,33,24.6,1.3,2026-05-20,Healthy
+INV00036,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P016,Coffee Maker,Home Appliances,Kitchen,Alpha Supply,59,54,131,210,399,12390,23541,60,154,2,7,40,29.5,1.02,2026-04-02,Healthy
+INV00037,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P017,Air Fryer,Home Appliances,Kitchen,BR Distribuidora,150,46,176,330,599,49500,89850,267,884,7,5,11,21.4,1.78,2026-02-11,Healthy
+INV00038,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P018,Blender,Home Appliances,Kitchen,Global Retail Co,108,66,151,95,189,10260,20412,171,536,6,10,6,18.0,1.58,2026-06-21,Healthy
+INV00039,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,Global Retail Co,5,71,290,260,499,1300,2495,257,817,8,7,15,0.6,51.4,2026-03-31,Low Stock
+INV00040,2026-06-30,ST002,São Paulo - Tatuapé,São Paulo,SP,Southeast,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,94,69,115,75,149,7050,14006,272,705,10,5,19,9.4,2.89,2026-03-13,Healthy
+INV00041,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P001,Smartphone X100,Electronics,Mobile,NexTrade,549,198,411,1450,2199,796050,1207251,353,1148,12,14,30,45.8,0.64,2026-02-15,Overstock
+INV00042,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P002,Bluetooth Headphones,Electronics,Audio,Global Retail Co,224,38,230,110,199,24640,44576,279,877,9,3,11,24.9,1.25,2026-06-05,Healthy
+INV00043,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P003,Notebook Pro 14,Electronics,Computers,FastStock,6,80,267,2900,4299,17400,25794,508,1681,17,3,29,0.4,84.67,2026-06-25,Low Stock
+INV00044,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P004,Wireless Mouse,Electronics,Accessories,Alpha Supply,223,81,138,42,89,9366,19847,208,613,7,7,32,31.9,0.93,2026-07-04,Overstock
+INV00045,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P005,LED Monitor 24,Electronics,Computers,Global Retail Co,267,164,374,540,899,144180,240033,279,678,10,14,24,26.7,1.04,2026-06-23,Healthy
+INV00046,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P006,Office Chair,Furniture,Office,BR Distribuidora,108,108,251,230,449,24840,48492,143,366,6,14,24,18.0,1.32,2026-04-21,Healthy
+INV00047,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P007,Wooden Desk,Furniture,Office,BR Distribuidora,273,143,296,420,799,114660,218127,213,672,11,10,33,24.8,0.78,2026-06-18,Healthy
+INV00048,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P008,Bookshelf,Furniture,Home,BR Distribuidora,143,58,267,260,499,37180,71357,95,219,3,7,37,47.7,0.66,2026-06-22,Healthy
+INV00049,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P009,Sofa Compact,Furniture,Living Room,Alpha Supply,0,67,144,900,1599,0,0,301,969,10,5,17,0.0,0,2026-04-27,Out of Stock
+INV00050,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P010,Dining Table,Furniture,Kitchen,Alpha Supply,315,213,431,760,1299,239400,409185,499,1243,14,14,17,22.5,1.58,2026-01-28,Healthy
+INV00051,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P011,Printer Basic,Office Supplies,Printing,BR Distribuidora,98,86,304,350,649,34300,63602,273,640,14,5,16,7.0,2.79,2026-04-29,Healthy
+INV00052,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P012,A4 Paper Pack,Office Supplies,Paper,FastStock,392,263,416,18,34,7056,13328,442,1198,17,14,25,23.1,1.13,2026-04-25,Healthy
+INV00053,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P013,Pen Set,Office Supplies,Writing,BR Distribuidora,174,93,199,6,15,1044,2610,171,475,6,10,33,29.0,0.98,2026-03-12,Healthy
+INV00054,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P014,Notebook Paper,Office Supplies,Paper,Alpha Supply,41,68,168,9,22,369,902,578,1891,15,3,23,2.7,14.1,2026-02-05,Low Stock
+INV00055,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P015,Stapler,Office Supplies,Accessories,Global Retail Co,14,54,271,12,29,168,406,173,493,5,5,29,2.8,12.36,2026-01-16,Low Stock
+INV00056,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P016,Coffee Maker,Home Appliances,Kitchen,FastStock,294,99,288,210,399,61740,117306,224,723,7,10,29,42.0,0.76,2026-04-08,Overstock
+INV00057,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P017,Air Fryer,Home Appliances,Kitchen,FastStock,184,75,191,330,599,60720,110216,598,1701,16,3,27,11.5,3.25,2026-06-04,Healthy
+INV00058,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P018,Blender,Home Appliances,Kitchen,Global Retail Co,102,99,208,95,189,9690,19278,192,511,8,10,19,12.8,1.88,2026-07-05,Healthy
+INV00059,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,Global Retail Co,173,73,272,260,499,44980,86327,142,326,6,10,13,28.8,0.82,2026-02-04,Healthy
+INV00060,2026-06-30,ST003,Rio de Janeiro - Centro,Rio de Janeiro,RJ,Southeast,P020,Electric Kettle,Home Appliances,Kitchen,NexTrade,110,83,189,75,149,8250,16390,389,1068,15,5,8,7.3,3.54,2026-04-08,Healthy
+INV00061,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P001,Smartphone X100,Electronics,Mobile,Alpha Supply,158,111,171,1450,2199,229100,347442,81,212,9,10,21,17.6,0.51,2026-06-16,Healthy
+INV00062,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P002,Bluetooth Headphones,Electronics,Audio,BR Distribuidora,277,26,117,110,199,30470,55123,49,116,2,3,20,138.5,0.18,2026-05-02,Overstock
+INV00063,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P003,Notebook Pro 14,Electronics,Computers,Alpha Supply,168,74,233,2900,4299,487200,722232,133,411,4,14,18,42.0,0.79,2026-02-11,Healthy
+INV00064,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P004,Wireless Mouse,Electronics,Accessories,Global Retail Co,152,36,155,42,89,6384,13528,359,1202,10,3,6,15.2,2.36,2026-07-03,Healthy
+INV00065,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P005,LED Monitor 24,Electronics,Computers,FastStock,79,41,107,540,899,42660,71021,237,555,7,3,20,11.3,3.0,2026-01-11,Healthy
+INV00066,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P006,Office Chair,Furniture,Office,Alpha Supply,329,200,409,230,449,75670,147721,294,875,12,14,32,27.4,0.89,2026-04-18,Healthy
+INV00067,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P007,Wooden Desk,Furniture,Office,NexTrade,197,80,212,420,799,82740,157403,457,1407,16,3,32,12.3,2.32,2026-06-07,Healthy
+INV00068,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P008,Bookshelf,Furniture,Home,BR Distribuidora,517,214,365,260,499,134420,257983,447,1127,18,10,34,28.7,0.86,2026-01-23,Overstock
+INV00069,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P009,Sofa Compact,Furniture,Living Room,Global Retail Co,207,110,268,900,1599,186300,330993,242,626,9,10,20,23.0,1.17,2026-02-24,Healthy
+INV00070,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P010,Dining Table,Furniture,Kitchen,FastStock,401,110,221,760,1299,304760,520899,419,1364,12,7,26,33.4,1.04,2026-01-03,Overstock
+INV00071,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P011,Printer Basic,Office Supplies,Printing,Global Retail Co,157,95,196,350,649,54950,101893,450,1247,17,5,10,9.2,2.87,2026-04-25,Healthy
+INV00072,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P012,A4 Paper Pack,Office Supplies,Paper,FastStock,57,26,122,18,34,1026,1938,28,71,1,3,23,57.0,0.49,2026-04-05,Healthy
+INV00073,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P013,Pen Set,Office Supplies,Writing,BR Distribuidora,346,262,390,6,15,2076,5190,427,1096,16,14,38,21.6,1.23,2026-01-31,Healthy
+INV00074,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P014,Notebook Paper,Office Supplies,Paper,BR Distribuidora,415,61,238,9,22,3735,9130,240,581,7,7,12,59.3,0.58,2026-05-04,Overstock
+INV00075,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P015,Stapler,Office Supplies,Accessories,NexTrade,189,164,356,12,29,2268,5481,288,758,9,14,38,21.0,1.52,2026-01-04,Healthy
+INV00076,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P016,Coffee Maker,Home Appliances,Kitchen,BR Distribuidora,305,112,163,210,399,64050,121695,474,1208,18,5,22,16.9,1.55,2026-06-13,Overstock
+INV00077,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P017,Air Fryer,Home Appliances,Kitchen,Global Retail Co,175,53,239,330,599,57750,104825,432,977,16,3,5,10.9,2.47,2026-01-30,Healthy
+INV00078,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P018,Blender,Home Appliances,Kitchen,BR Distribuidora,109,66,124,95,189,10355,20601,93,210,3,10,36,36.3,0.85,2026-05-25,Healthy
+INV00079,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,FastStock,103,50,120,260,499,26780,51397,230,568,10,3,20,10.3,2.23,2026-04-08,Healthy
+INV00080,2026-06-30,ST004,Belo Horizonte - Savassi,Belo Horizonte,MG,Southeast,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,443,174,364,75,149,33225,66007,367,1057,15,10,24,29.5,0.83,2026-06-06,Overstock
+INV00081,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P001,Smartphone X100,Electronics,Mobile,Global Retail Co,58,38,145,1450,2199,84100,127542,121,288,4,5,18,14.5,2.09,2026-04-26,Healthy
+INV00082,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P002,Bluetooth Headphones,Electronics,Audio,Global Retail Co,155,119,218,110,199,17050,30845,581,1768,16,7,7,9.7,3.75,2026-01-19,Healthy
+INV00083,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P003,Notebook Pro 14,Electronics,Computers,Alpha Supply,29,73,221,2900,4299,84100,124671,187,596,8,7,17,3.6,6.45,2026-01-16,Low Stock
+INV00084,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P004,Wireless Mouse,Electronics,Accessories,NexTrade,39,65,217,42,89,1638,3471,127,386,6,7,23,6.5,3.26,2026-05-09,Low Stock
+INV00085,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P005,LED Monitor 24,Electronics,Computers,Alpha Supply,269,213,273,540,899,145260,241831,467,1167,18,10,33,14.9,1.74,2026-02-28,Healthy
+INV00086,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P006,Office Chair,Furniture,Office,NexTrade,97,14,98,230,449,22310,43553,31,84,1,7,7,97.0,0.32,2026-02-16,Healthy
+INV00087,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P007,Wooden Desk,Furniture,Office,Global Retail Co,235,150,310,420,799,98700,187765,405,969,14,10,10,16.8,1.72,2026-06-27,Healthy
+INV00088,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P008,Bookshelf,Furniture,Home,NexTrade,0,142,322,260,499,0,0,513,1182,16,7,30,0.0,0,2026-03-24,Out of Stock
+INV00089,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P009,Sofa Compact,Furniture,Living Room,FastStock,111,77,117,900,1599,99900,177489,113,318,4,10,37,27.8,1.02,2026-05-08,Healthy
+INV00090,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P010,Dining Table,Furniture,Kitchen,Global Retail Co,99,63,171,760,1299,75240,128601,455,1240,15,3,18,6.6,4.6,2026-02-01,Healthy
+INV00091,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P011,Printer Basic,Office Supplies,Printing,Alpha Supply,35,34,114,350,649,12250,22715,27,91,1,14,20,35.0,0.77,2026-04-29,Healthy
+INV00092,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P012,A4 Paper Pack,Office Supplies,Paper,Global Retail Co,90,56,170,18,34,1620,3060,117,315,4,5,36,22.5,1.3,2026-05-01,Healthy
+INV00093,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P013,Pen Set,Office Supplies,Writing,NexTrade,196,120,197,6,15,1176,2940,157,508,8,10,40,24.5,0.8,2026-04-17,Healthy
+INV00094,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P014,Notebook Paper,Office Supplies,Paper,FastStock,195,176,216,9,22,1755,4290,324,1038,11,14,22,17.7,1.66,2026-06-18,Healthy
+INV00095,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P015,Stapler,Office Supplies,Accessories,NexTrade,198,113,290,12,29,2376,5742,385,1057,16,5,33,12.4,1.94,2026-02-18,Healthy
+INV00096,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P016,Coffee Maker,Home Appliances,Kitchen,Global Retail Co,346,141,240,210,399,72660,138054,223,502,8,14,29,43.2,0.64,2026-06-30,Overstock
+INV00097,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P017,Air Fryer,Home Appliances,Kitchen,Global Retail Co,343,144,310,330,599,113190,205457,303,982,13,10,14,26.4,0.88,2026-01-26,Overstock
+INV00098,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P018,Blender,Home Appliances,Kitchen,NexTrade,194,175,251,95,189,18430,36666,508,1163,17,10,5,11.4,2.62,2026-03-28,Healthy
+INV00099,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P019,Vacuum Cleaner,Home Appliances,Cleaning,Global Retail Co,375,65,277,260,499,97500,187125,477,1557,13,3,26,28.8,1.27,2026-05-19,Overstock
+INV00100,2026-06-30,ST005,Curitiba - Batel,Curitiba,PR,South,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,73,37,137,75,149,5475,10877,56,190,2,14,9,36.5,0.77,2026-04-22,Healthy
+INV00101,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P001,Smartphone X100,Electronics,Mobile,NexTrade,48,45,127,1450,2199,69600,105552,154,393,4,3,33,12.0,3.21,2026-04-21,Healthy
+INV00102,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P002,Bluetooth Headphones,Electronics,Audio,Alpha Supply,109,63,208,110,199,11990,21691,162,389,5,5,38,21.8,1.49,2026-06-06,Healthy
+INV00103,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P003,Notebook Pro 14,Electronics,Computers,Alpha Supply,406,202,369,2900,4299,1177400,1745394,400,1100,13,14,20,31.2,0.99,2026-04-30,Overstock
+INV00104,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P004,Wireless Mouse,Electronics,Accessories,NexTrade,177,155,213,42,89,7434,15753,370,1252,10,14,15,17.7,2.09,2026-06-13,Healthy
+INV00105,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P005,LED Monitor 24,Electronics,Computers,NexTrade,99,132,249,540,899,53460,89001,440,1169,14,7,34,7.1,4.44,2026-05-28,Low Stock
+INV00106,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P006,Office Chair,Furniture,Office,Alpha Supply,78,76,284,230,449,17940,35022,281,809,10,7,6,7.8,3.6,2026-06-05,Healthy
+INV00107,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P007,Wooden Desk,Furniture,Office,BR Distribuidora,187,131,326,420,799,78540,149413,407,1226,16,7,19,11.7,2.18,2026-06-10,Healthy
+INV00108,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P008,Bookshelf,Furniture,Home,BR Distribuidora,0,36,188,260,499,0,0,98,258,4,3,24,0.0,0,2026-01-24,Out of Stock
+INV00109,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P009,Sofa Compact,Furniture,Living Room,NexTrade,70,101,185,900,1599,63000,111930,334,935,10,7,31,7.0,4.77,2026-02-12,Low Stock
+INV00110,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P010,Dining Table,Furniture,Kitchen,BR Distribuidora,172,113,239,760,1299,130720,223428,239,801,9,10,23,19.1,1.39,2026-02-27,Healthy
+INV00111,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P011,Printer Basic,Office Supplies,Printing,NexTrade,211,210,273,350,649,73850,136939,386,1019,13,14,28,16.2,1.83,2026-05-30,Healthy
+INV00112,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P012,A4 Paper Pack,Office Supplies,Paper,FastStock,4,102,314,18,34,72,136,423,1245,13,7,11,0.3,105.75,2026-03-25,Low Stock
+INV00113,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P013,Pen Set,Office Supplies,Writing,Global Retail Co,162,58,277,6,15,972,2430,249,558,8,3,34,20.2,1.54,2026-01-30,Healthy
+INV00114,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P014,Notebook Paper,Office Supplies,Paper,FastStock,106,59,133,9,22,954,2332,124,372,4,5,39,26.5,1.17,2026-04-18,Healthy
+INV00115,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P015,Stapler,Office Supplies,Accessories,BR Distribuidora,132,61,226,12,29,1584,3828,173,472,5,10,11,26.4,1.31,2026-04-03,Healthy
+INV00116,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P016,Coffee Maker,Home Appliances,Kitchen,Alpha Supply,168,67,272,210,399,35280,67032,123,311,4,7,39,42.0,0.73,2026-04-27,Healthy
+INV00117,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P017,Air Fryer,Home Appliances,Kitchen,FastStock,36,21,73,330,599,11880,21564,116,283,3,5,6,12.0,3.22,2026-02-23,Healthy
+INV00118,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P018,Blender,Home Appliances,Kitchen,BR Distribuidora,137,61,138,95,189,13015,25893,205,451,7,5,26,19.6,1.5,2026-02-03,Healthy
+INV00119,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P019,Vacuum Cleaner,Home Appliances,Cleaning,FastStock,145,142,210,260,499,37700,72355,597,1878,18,7,16,8.1,4.12,2026-03-24,Healthy
+INV00120,2026-06-30,ST006,Porto Alegre - Moinhos,Porto Alegre,RS,South,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,14,26,79,75,149,1050,2086,33,93,1,5,21,14.0,2.36,2026-05-02,Low Stock
+INV00121,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P001,Smartphone X100,Electronics,Mobile,FastStock,129,142,333,1450,2199,187050,283671,468,1438,15,7,37,8.6,3.63,2026-03-19,Low Stock
+INV00122,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P002,Bluetooth Headphones,Electronics,Audio,Global Retail Co,325,53,215,110,199,35750,64675,551,1665,15,3,8,21.7,1.7,2026-07-02,Overstock
+INV00123,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P003,Notebook Pro 14,Electronics,Computers,NexTrade,63,55,177,2900,4299,182700,270837,523,1517,15,3,10,4.2,8.3,2026-04-08,Healthy
+INV00124,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P004,Wireless Mouse,Electronics,Accessories,Alpha Supply,178,153,322,42,89,7476,15842,594,1872,17,7,34,10.5,3.34,2026-06-17,Healthy
+INV00125,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P005,LED Monitor 24,Electronics,Computers,Alpha Supply,383,122,277,540,899,206820,344317,487,1314,18,5,32,21.3,1.27,2026-03-22,Overstock
+INV00126,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P006,Office Chair,Furniture,Office,Alpha Supply,430,119,254,230,449,98900,193070,485,1604,14,7,21,30.7,1.13,2026-01-24,Overstock
+INV00127,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P007,Wooden Desk,Furniture,Office,FastStock,88,41,105,420,799,36960,70312,97,281,3,3,32,29.3,1.1,2026-05-24,Healthy
+INV00128,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P008,Bookshelf,Furniture,Home,Alpha Supply,303,64,194,260,499,78780,151197,265,859,11,3,31,27.5,0.87,2026-03-15,Overstock
+INV00129,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P009,Sofa Compact,Furniture,Living Room,FastStock,120,81,268,900,1599,108000,191880,280,652,10,7,11,12.0,2.33,2026-04-05,Healthy
+INV00130,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P010,Dining Table,Furniture,Kitchen,FastStock,356,47,196,760,1299,270560,462444,108,317,4,7,19,89.0,0.3,2026-01-07,Overstock
+INV00131,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P011,Printer Basic,Office Supplies,Printing,BR Distribuidora,82,43,152,350,649,28700,53218,306,739,9,3,16,9.1,3.73,2026-05-25,Healthy
+INV00132,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P012,A4 Paper Pack,Office Supplies,Paper,BR Distribuidora,279,53,255,18,34,5022,9486,361,1117,13,3,14,21.5,1.29,2026-04-07,Overstock
+INV00133,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P013,Pen Set,Office Supplies,Writing,Alpha Supply,207,166,246,6,15,1242,3105,435,1001,14,10,26,14.8,2.1,2026-02-09,Healthy
+INV00134,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P014,Notebook Paper,Office Supplies,Paper,Global Retail Co,57,92,304,9,22,513,1254,141,422,6,14,8,9.5,2.47,2026-06-05,Low Stock
+INV00135,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P015,Stapler,Office Supplies,Accessories,FastStock,186,172,267,12,29,2232,5394,429,1292,15,10,22,12.4,2.31,2026-05-05,Healthy
+INV00136,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P016,Coffee Maker,Home Appliances,Kitchen,BR Distribuidora,202,126,222,210,399,42420,80598,544,1232,17,7,7,11.9,2.69,2026-03-19,Healthy
+INV00137,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P017,Air Fryer,Home Appliances,Kitchen,FastStock,56,56,170,330,599,18480,33544,172,405,7,5,21,8.0,3.07,2026-06-30,Healthy
+INV00138,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P018,Blender,Home Appliances,Kitchen,Alpha Supply,170,152,363,95,189,16150,32130,240,642,8,14,40,21.2,1.41,2026-04-22,Healthy
+INV00139,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,Global Retail Co,92,19,139,260,499,23920,45908,24,61,1,10,9,92.0,0.26,2026-01-06,Healthy
+INV00140,2026-06-30,ST007,Salvador - Pituba,Salvador,BA,Northeast,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,328,89,305,75,149,24600,48872,374,1018,11,5,34,29.8,1.14,2026-03-04,Overstock
+INV00141,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P001,Smartphone X100,Electronics,Mobile,BR Distribuidora,0,226,400,1450,2199,0,0,499,1230,14,14,30,0.0,0,2026-01-20,Out of Stock
+INV00142,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P002,Bluetooth Headphones,Electronics,Audio,BR Distribuidora,45,89,259,110,199,4950,8955,407,1066,17,3,38,2.6,9.04,2026-03-02,Low Stock
+INV00143,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P003,Notebook Pro 14,Electronics,Computers,Global Retail Co,10,41,131,2900,4299,29000,42990,121,291,4,5,21,2.5,12.1,2026-04-29,Low Stock
+INV00144,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P004,Wireless Mouse,Electronics,Accessories,Global Retail Co,347,235,435,42,89,14574,30883,340,775,15,14,25,23.1,0.98,2026-06-11,Healthy
+INV00145,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P005,LED Monitor 24,Electronics,Computers,NexTrade,157,78,208,540,899,84780,141143,286,755,10,7,8,15.7,1.82,2026-01-20,Healthy
+INV00146,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P006,Office Chair,Furniture,Office,FastStock,89,79,217,230,449,20470,39961,90,246,3,14,37,29.7,1.01,2026-06-16,Healthy
+INV00147,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P007,Wooden Desk,Furniture,Office,Alpha Supply,8,84,252,420,799,3360,6392,149,477,7,7,35,1.1,18.62,2026-05-10,Low Stock
+INV00148,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P008,Bookshelf,Furniture,Home,BR Distribuidora,325,38,190,260,499,84500,162175,196,554,6,3,20,54.2,0.6,2026-04-04,Overstock
+INV00149,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P009,Sofa Compact,Furniture,Living Room,Alpha Supply,126,113,257,900,1599,113400,201474,381,868,12,7,29,10.5,3.02,2026-05-23,Healthy
+INV00150,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P010,Dining Table,Furniture,Kitchen,NexTrade,475,112,320,760,1299,361000,617025,298,967,13,7,21,36.5,0.63,2026-01-21,Overstock
+INV00151,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P011,Printer Basic,Office Supplies,Printing,FastStock,159,59,266,350,649,55650,103191,177,407,5,7,24,31.8,1.11,2026-04-07,Healthy
+INV00152,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P012,A4 Paper Pack,Office Supplies,Paper,Alpha Supply,147,93,156,18,34,2646,4998,392,1101,11,5,38,13.4,2.67,2026-04-03,Healthy
+INV00153,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P013,Pen Set,Office Supplies,Writing,NexTrade,320,68,195,6,15,1920,4800,382,911,10,5,18,32.0,1.19,2026-01-26,Overstock
+INV00154,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P014,Notebook Paper,Office Supplies,Paper,FastStock,325,276,325,9,22,2925,7150,876,2576,17,14,38,19.1,2.7,2026-04-07,Healthy
+INV00155,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P015,Stapler,Office Supplies,Accessories,NexTrade,248,41,258,12,29,2976,7192,182,409,5,5,16,49.6,0.73,2026-06-23,Healthy
+INV00156,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P016,Coffee Maker,Home Appliances,Kitchen,Global Retail Co,31,103,257,210,399,6510,12369,203,521,8,10,23,3.9,6.55,2026-02-19,Low Stock
+INV00157,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P017,Air Fryer,Home Appliances,Kitchen,BR Distribuidora,298,201,359,330,599,98340,178502,297,711,12,14,33,24.8,1.0,2026-06-04,Healthy
+INV00158,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P018,Blender,Home Appliances,Kitchen,Alpha Supply,138,43,247,95,189,13110,26082,149,426,5,7,8,27.6,1.08,2026-07-02,Healthy
+INV00159,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P019,Vacuum Cleaner,Home Appliances,Cleaning,Alpha Supply,91,74,135,260,499,23660,45409,413,1320,17,3,23,5.4,4.54,2026-02-26,Healthy
+INV00160,2026-06-30,ST008,Recife - Boa Viagem,Recife,PE,Northeast,P020,Electric Kettle,Home Appliances,Kitchen,BR Distribuidora,0,111,257,75,149,0,0,478,1339,15,7,6,0.0,0,2026-04-09,Out of Stock
+INV00161,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P001,Smartphone X100,Electronics,Mobile,BR Distribuidora,46,40,87,1450,2199,66700,101154,101,318,3,7,19,15.3,2.2,2026-01-10,Healthy
+INV00162,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P002,Bluetooth Headphones,Electronics,Audio,Alpha Supply,270,113,333,110,199,29700,53730,238,525,10,10,13,27.0,0.88,2026-01-05,Healthy
+INV00163,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P003,Notebook Pro 14,Electronics,Computers,NexTrade,395,59,239,2900,4299,1145500,1698105,248,631,9,5,14,43.9,0.63,2026-02-01,Overstock
+INV00164,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P004,Wireless Mouse,Electronics,Accessories,Global Retail Co,158,41,244,42,89,6636,14062,59,134,2,5,31,79.0,0.37,2026-06-02,Healthy
+INV00165,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P005,LED Monitor 24,Electronics,Computers,FastStock,19,91,278,540,899,10260,17081,538,1411,18,3,37,1.1,28.32,2026-04-17,Low Stock
+INV00166,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P006,Office Chair,Furniture,Office,FastStock,0,56,188,230,449,0,0,181,512,6,3,38,0.0,0,2026-05-10,Out of Stock
+INV00167,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P007,Wooden Desk,Furniture,Office,NexTrade,0,83,243,420,799,0,0,474,1467,18,3,29,0.0,0,2026-01-18,Out of Stock
+INV00168,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P008,Bookshelf,Furniture,Home,NexTrade,156,71,259,260,499,40560,77844,397,936,12,5,11,13.0,2.54,2026-05-20,Healthy
+INV00169,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P009,Sofa Compact,Furniture,Living Room,Global Retail Co,135,89,307,900,1599,121500,215865,337,1055,11,5,34,12.3,2.5,2026-01-10,Healthy
+INV00170,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P010,Dining Table,Furniture,Kitchen,FastStock,229,57,148,760,1299,174040,297471,283,939,10,5,7,22.9,1.24,2026-04-12,Overstock
+INV00171,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P011,Printer Basic,Office Supplies,Printing,NexTrade,213,201,250,350,649,74550,138237,499,1126,18,10,21,11.8,2.34,2026-03-11,Healthy
+INV00172,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P012,A4 Paper Pack,Office Supplies,Paper,BR Distribuidora,158,60,202,18,34,2844,5372,158,411,4,7,32,39.5,1.0,2026-05-08,Healthy
+INV00173,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P013,Pen Set,Office Supplies,Writing,BR Distribuidora,243,150,258,6,15,1458,3645,404,1371,16,7,38,15.2,1.66,2026-05-20,Healthy
+INV00174,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P014,Notebook Paper,Office Supplies,Paper,FastStock,99,81,141,9,22,891,2178,324,831,10,7,11,9.9,3.27,2026-07-03,Healthy
+INV00175,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P015,Stapler,Office Supplies,Accessories,Alpha Supply,193,103,232,12,29,2316,5597,363,1077,14,5,33,13.8,1.88,2026-01-20,Healthy
+INV00176,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P016,Coffee Maker,Home Appliances,Kitchen,FastStock,4,128,341,210,399,840,1596,344,815,13,7,37,0.3,86.0,2026-06-23,Low Stock
+INV00177,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P017,Air Fryer,Home Appliances,Kitchen,FastStock,42,58,115,330,599,13860,25158,400,1152,15,3,13,2.8,9.52,2026-02-09,Low Stock
+INV00178,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P018,Blender,Home Appliances,Kitchen,NexTrade,279,133,286,95,189,26505,52731,504,1192,15,7,28,18.6,1.81,2026-04-12,Healthy
+INV00179,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P019,Vacuum Cleaner,Home Appliances,Cleaning,Alpha Supply,0,97,166,260,499,0,0,355,1170,11,7,20,0.0,0,2026-03-09,Out of Stock
+INV00180,2026-06-30,ST009,Brasília - Asa Sul,Brasília,DF,Midwest,P020,Electric Kettle,Home Appliances,Kitchen,BR Distribuidora,233,108,304,75,149,17475,34717,320,780,9,10,18,25.9,1.37,2026-01-19,Healthy
+INV00181,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P001,Smartphone X100,Electronics,Mobile,Alpha Supply,169,108,170,1450,2199,245050,371631,487,1274,15,5,33,11.3,2.88,2026-05-21,Healthy
+INV00182,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P002,Bluetooth Headphones,Electronics,Audio,FastStock,172,150,230,110,199,18920,34228,474,1494,18,7,24,9.6,2.76,2026-02-27,Healthy
+INV00183,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P003,Notebook Pro 14,Electronics,Computers,FastStock,36,33,133,2900,4299,104400,154764,103,284,4,5,13,9.0,2.86,2026-02-03,Healthy
+INV00184,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P004,Wireless Mouse,Electronics,Accessories,Global Retail Co,297,33,174,42,89,12474,26433,104,294,3,3,24,99.0,0.35,2026-05-28,Overstock
+INV00185,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P005,LED Monitor 24,Electronics,Computers,FastStock,0,40,244,540,899,0,0,72,169,3,5,25,0.0,0,2026-06-13,Out of Stock
+INV00186,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P006,Office Chair,Furniture,Office,FastStock,245,62,230,230,449,56350,110005,187,597,6,5,32,40.8,0.76,2026-02-09,Overstock
+INV00187,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P007,Wooden Desk,Furniture,Office,Alpha Supply,245,65,187,420,799,102900,195755,232,759,10,5,15,24.5,0.95,2026-03-06,Overstock
+INV00188,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P008,Bookshelf,Furniture,Home,BR Distribuidora,188,120,192,260,499,48880,93812,278,642,7,14,22,26.9,1.48,2026-06-01,Healthy
+INV00189,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P009,Sofa Compact,Furniture,Living Room,FastStock,0,51,235,900,1599,0,0,156,520,5,5,26,0.0,0,2026-03-09,Out of Stock
+INV00190,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P010,Dining Table,Furniture,Kitchen,FastStock,256,129,327,760,1299,194560,332544,199,650,7,14,31,36.6,0.78,2026-03-16,Healthy
+INV00191,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P011,Printer Basic,Office Supplies,Printing,Global Retail Co,236,120,335,350,649,82600,153164,315,859,10,10,20,23.6,1.33,2026-04-29,Healthy
+INV00192,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P012,A4 Paper Pack,Office Supplies,Paper,NexTrade,265,63,183,18,34,4770,9010,215,662,7,7,14,37.9,0.81,2026-04-13,Overstock
+INV00193,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P013,Pen Set,Office Supplies,Writing,Alpha Supply,31,72,255,6,15,186,465,130,324,5,7,37,6.2,4.19,2026-01-13,Low Stock
+INV00194,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P014,Notebook Paper,Office Supplies,Paper,FastStock,275,131,234,9,22,2475,6050,308,978,10,10,31,27.5,1.12,2026-07-04,Overstock
+INV00195,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P015,Stapler,Office Supplies,Accessories,Global Retail Co,357,70,237,12,29,4284,10353,282,628,11,5,15,32.5,0.79,2026-05-10,Overstock
+INV00196,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P016,Coffee Maker,Home Appliances,Kitchen,FastStock,105,93,282,210,399,22050,41895,450,1141,15,5,18,7.0,4.29,2026-06-17,Healthy
+INV00197,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P017,Air Fryer,Home Appliances,Kitchen,Global Retail Co,304,151,193,330,599,100320,182096,521,1374,16,7,39,19.0,1.71,2026-04-04,Overstock
+INV00198,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P018,Blender,Home Appliances,Kitchen,Alpha Supply,120,28,213,95,189,11400,22680,65,186,2,10,8,60.0,0.54,2026-04-09,Healthy
+INV00199,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P019,Vacuum Cleaner,Home Appliances,Cleaning,Global Retail Co,481,210,321,260,499,125060,240019,491,1654,17,10,40,28.3,1.02,2026-04-06,Overstock
+INV00200,2026-06-30,ST010,Manaus - Centro,Manaus,AM,North,P020,Electric Kettle,Home Appliances,Kitchen,Alpha Supply,131,182,258,75,149,9825,19519,304,815,11,14,28,11.9,2.32,2026-01-12,Low Stock
