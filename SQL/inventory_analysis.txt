@@ -1,0 +1,146 @@
+-- =====================================
+-- Retail Inventory Analysis Dashboard
+-- SQL Analysis
+-- =====================================
+
+-- =====================================
+-- Query 1 - Total Inventory Value
+-- =====================================
+
+SELECT
+    ROUND(SUM(inventory_value),2) AS total_inventory_value
+FROM retail_inventory;
+
+
+-- =====================================
+-- Query 2 - Inventory Value by Category
+-- =====================================
+
+SELECT
+    category,
+    ROUND(SUM(inventory_value),2) AS inventory_value
+FROM retail_inventory
+GROUP BY category
+ORDER BY inventory_value DESC;
+
+
+-- =====================================
+-- Query 3 - Inventory Value by Store
+-- =====================================
+
+SELECT
+    store_name,
+    ROUND(SUM(inventory_value),2) AS inventory_value
+FROM retail_inventory
+GROUP BY store_name
+ORDER BY inventory_value DESC;
+
+
+-- =====================================
+-- Query 4 - Products Below Reorder Level
+-- =====================================
+
+SELECT
+    product_name,
+    store_name,
+    stock_quantity,
+    reorder_level
+FROM retail_inventory
+WHERE stock_quantity < reorder_level
+ORDER BY stock_quantity;
+
+
+-- =====================================
+-- Query 5 - Out of Stock Products
+-- =====================================
+
+SELECT
+    product_name,
+    store_name
+FROM retail_inventory
+WHERE stock_quantity = 0;
+
+
+-- =====================================
+-- Query 6 - Stock Status Distribution
+-- =====================================
+
+SELECT
+    stock_status,
+    COUNT(*) AS total_products
+FROM retail_inventory
+GROUP BY stock_status
+ORDER BY total_products DESC;
+
+
+-- =====================================
+-- Query 7 - Inventory Value by Supplier
+-- =====================================
+
+SELECT
+    supplier,
+    ROUND(SUM(inventory_value),2) AS inventory_value
+FROM retail_inventory
+GROUP BY supplier
+ORDER BY inventory_value DESC;
+
+
+-- =====================================
+-- Query 8 - Average Daily Sales by Category
+-- =====================================
+
+SELECT
+    category,
+    ROUND(AVG(avg_daily_sales),2) AS average_daily_sales
+FROM retail_inventory
+GROUP BY category
+ORDER BY average_daily_sales DESC;
+
+
+-- =====================================
+-- Query 9 - Inventory Turnover by Category
+-- =====================================
+
+SELECT
+    category,
+    ROUND(AVG(inventory_turnov),2) AS inventory_turnover
+FROM retail_inventory
+GROUP BY category
+ORDER BY inventory_turnover DESC;
+
+
+-- =====================================
+-- Query 10 - Top 10 Products by Inventory Value
+-- =====================================
+
+SELECT
+    product_name,
+    ROUND(SUM(inventory_value),2) AS inventory_value
+FROM retail_inventory
+GROUP BY product_name
+ORDER BY inventory_value DESC
+LIMIT 10;
+
+
+-- =====================================
+-- Query 11 - Days of Supply by Category
+-- =====================================
+
+SELECT
+    category,
+    ROUND(AVG(days_of_supply),2) AS avg_days_of_supply
+FROM retail_inventory
+GROUP BY category
+ORDER BY avg_days_of_supply DESC;
+
+
+-- =====================================
+-- Query 12 - Potential Revenue by Category
+-- =====================================
+
+SELECT
+    category,
+    ROUND(SUM(potential_revenu),2) AS potential_revenue
+FROM retail_inventory
+GROUP BY category
+ORDER BY potential_revenue DESC;
